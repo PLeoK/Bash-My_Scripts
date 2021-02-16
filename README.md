@@ -15,6 +15,7 @@
 > git config
   $ git config --global user.name "PLeoK"
   $ git config --global user.email "przemek.kaminski6@gmail.com"
+  $ git config --list # To list your configuration 
 
 !) TO TURN AN EXISTING FOLDER INTO A GIT REPO:
 > When in the directory you want to turn in to repo:
